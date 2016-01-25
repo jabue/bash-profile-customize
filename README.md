@@ -1,6 +1,6 @@
 # bash-profile-customize
-
-"#!/bin/bash"
+```
+#!/bin/bash
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK
 
 #personal options
@@ -22,3 +22,4 @@ PS1='\n\u:[\w]->'
 GRAILS_HOME="~/Documents/grails/grails-3.0.8/"
 PATH=".:$PATH:$GRAILS_HOME/bin"
 export GRAILS_HOM
+```
