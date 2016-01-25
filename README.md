@@ -1,6 +1,6 @@
 # bash-profile-customize
 
-#!/bin/bash
+"#!/bin/bash"
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK
 
 #personal options
